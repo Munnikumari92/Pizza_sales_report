@@ -21,4 +21,18 @@ Identifying the top-selling pizzas based on revenue, quantity, and total orders.
 Identify the least-selling pizzas based on revenue, quantity, and total orders.
 Identifying the % of sales by pizza category and orders placed by the customers.
 
+Creating Dashboards with Power BI
+Power BI is used to create interactive dashboards for visualizing the pizza sales data. The Power BI project file (pizza_sales_report.pbix) contains the following interactive dashboards:
+
+##Dashboard Overview
+
+The Pizza Sales Report dashboards provide a user-friendly interface and offer the following views:
+
+Trends: Daily and monthly sales trends.
+Pizza Category Analysis: Sales breakdown by pizza category.
+Pizza Size Analysis: Distribution of sales by pizza size.
+Top-Selling Pizzas: Identification of top-selling pizzas based on various metrics.
+Least-Selling Pizzas: Identification of least-selling pizzas based on various metrics.
+
+
 
