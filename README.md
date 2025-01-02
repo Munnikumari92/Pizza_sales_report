@@ -3,15 +3,15 @@
  
 **Features**
 
-Daily and Monthly Trends: Visualize the total number of pizza orders and sales figures on a daily and monthly basis. Gain insights into when the highest sales occurred.
+-Daily and Monthly Trends: Visualize the total number of pizza orders and sales figures on a daily and monthly basis. Gain insights into when the highest sales occurred.
 
-Pizza Category Analysis: Analyze sales by pizza category to understand customer preferences and identify the most popular categories.
+-Pizza Category Analysis: Analyze sales by pizza category to understand customer preferences and identify the most popular categories.
 
-Pizza Size Analysis: Examine the distribution of pizza sales by size, enabling you to tailor your menu based on customer choices.
+-Pizza Size Analysis: Examine the distribution of pizza sales by size, enabling you to tailor your menu based on customer choices.
 
-Top-Selling Pizzas: Discover the top-selling pizzas based on revenue, quantity, and total orders. Use this information to optimize your menu and increase profits.
+-Top-Selling Pizzas: Discover the top-selling pizzas based on revenue, quantity, and total orders. Use this information to optimize your menu and increase profits.
 
-##Data Analysis with SQL:
+**Data Analysis with SQL**:
 
 The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the sql_sales_analysis.sql of this repository.
 The SQL analysis involved the extraction and transformation of the data, which includes details of pizza sales, pizza category, size, and featuring various KPI's. The SQL analytics include:
