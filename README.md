@@ -12,7 +12,7 @@ The **Pizza Sales Report** project, where we leverage SQL for data analysis and 
 - **Top-Selling Pizzas**: Discover the top-selling pizzas based on revenue, quantity, and total orders. Use this information to optimize your menu and increase profits.
 
 
-    ## Data Analysis with SQL
+  ## Data Analysis with SQL
 
 The SQL analysis involved the extraction and transformation of the data, which includes details of pizza sales, pizza category, size, and featuring various KPI's. The SQL analytics include:
    - Identifying the daily and monthly trends of the pizzas sold and the revenue generated.
@@ -22,7 +22,7 @@ The SQL analysis involved the extraction and transformation of the data, which i
 
 ## Creating Dashboards with Power BI
 
-Power BI is used to create interactive dashboards for visualizing the pizza sales data. The Power BI project file (`pizza_sales_report.pbix`) contains the following interactive dashboards:
+Power BI is used to create interactive dashboards for visualizing the pizza sales data.
 
 ### Dashboard Overview
 
