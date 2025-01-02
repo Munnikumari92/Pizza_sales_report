@@ -14,29 +14,30 @@
 **Data Analysis with SQL**:
 
 The initial data analysis was conducted using SQL. The SQL scripts and queries used for data extraction, transformation, and loading can be found in the sql_sales_analysis.sql of this repository.
-The SQL analysis involved the extraction and transformation of the data, which includes details of pizza sales, pizza category, size, and featuring various KPI's. The SQL analytics include:
+The SQL analysis involved the extraction and transformation of the data, which includes details of pizza sales, pizza category, size, and featuring various KPI's. 
+#The SQL analytics include:
 
 Identifying the daily and monthly trends of the pizzas sold and the revenue generated.
 Identifying the top-selling pizzas based on revenue, quantity, and total orders.
 Identify the least-selling pizzas based on revenue, quantity, and total orders.
 Identifying the % of sales by pizza category and orders placed by the customers.
 
-##Creating Dashboards with Power BI
+**Creating Dashboards with Power BI**
 Power BI is used to create interactive dashboards for visualizing the pizza sales data. The Power BI project file (pizza_sales_report.pbix) contains the following interactive dashboards:
 
 ##Dashboard Overview
 
-The Pizza Sales Report dashboards provide a user-friendly interface and offer the following views:
+>The Pizza Sales Report dashboards provide a user-friendly interface and offer the following views:
 
-Trends: Daily and monthly sales trends.
+>>Trends: Daily and monthly sales trends.
 
-Pizza Category Analysis: Sales breakdown by pizza category.
+>>Pizza Category Analysis: Sales breakdown by pizza category.
 
-Pizza Size Analysis: Distribution of sales by pizza size.
+>>Pizza Size Analysis: Distribution of sales by pizza size.
 
-Top-Selling Pizzas: Identification of top-selling pizzas based on various metrics.
+>>Top-Selling Pizzas: Identification of top-selling pizzas based on various metrics.
 
-Least-Selling Pizzas: Identification of least-selling pizzas based on various metrics.
+>>Least-Selling Pizzas: Identification of least-selling pizzas based on various metrics.
 
 
 
