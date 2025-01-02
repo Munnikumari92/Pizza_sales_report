@@ -29,7 +29,7 @@ Power BI is used to create interactive dashboards for visualizing the pizza sale
 
 The Pizza Sales Report dashboards provide a user-friendly interface and offer the following views:
 
--Trends: Daily and monthly sales trends.
+1.Trends: Daily and monthly sales trends.
 
 >>Pizza Category Analysis: Sales breakdown by pizza category.
 
