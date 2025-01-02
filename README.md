@@ -1,7 +1,7 @@
 # Pizza_sales_report with SQL and POWER BI
  The Pizza Sales Report project, where we leverage SQL for data analysis and Power BI for creating interactive visualizations. This project provides in-depth insights into pizza sales data, including daily and monthly trends, sales by pizza category and size, and identifying top-selling pizzas based on revenue, quantity, and total orders.
  
-##Features
+#Features
 
 Daily and Monthly Trends: Visualize the total number of pizza orders and sales figures on a daily and monthly basis. Gain insights into when the highest sales occurred.
 
